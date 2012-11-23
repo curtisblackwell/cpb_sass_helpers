@@ -1,0 +1,78 @@
+@import "compass/css3/border-radius",
+        "_functions",
+        "_vars";
+
+@mixin triangle($direction, $height, $width, $color) {
+  border-style: solid;
+  @if $direction == up {
+    border-color: transparent transparent $color transparent;
+    border-width: 0 $width/2 $height $width/2;
+  }
+  @if $direction == down {
+    border-color: $color transparent transparent transparent;
+    border-width: $height $width/2 0 $width/2;
+  }
+  @if $direction == left {
+    border-color: transparent $color transparent transparent;
+    border-width: $height/2 $width $height/2 0;
+  }
+  @if $direction == right {
+    border-color: transparent transparent transparent $color;
+    border-width: $height/2 0 $height/2 $width;
+  }
+  content: "";
+  height: 0;
+  width: 0;
+}
+
+@mixin circle($diameter) {
+  @include border-radius(50%);
+  height: $diameter;
+  width: $diameter;
+}
+
+@mixin semicircle($direction, $radius) {
+  @if $direction == up {
+    @include border-radius($radius*2 $radius*2 0 0);
+    height: $radius;
+    width: $radius*2;
+  }
+  @if $direction == down {
+    @include border-radius(0 0 $radius*2 $radius*2);
+    height: $radius;
+    width: $radius*2;
+  }
+  @if $direction == left {
+    @include border-radius($radius*2 0 0 $radius*2);
+    height: $radius*2;
+    width: $radius;
+  }
+  @if $direction == right {
+    @include border-radius(0 $radius*2 $radius*2 0);
+    height: $radius*2;
+    width: $radius;
+  }
+}
+
+@mixin cb_logo_mark($height) {
+  &:before {
+    @include semicircle(left, $height/2);
+    background: $cb_red;
+    content: "";
+    position: absolute;
+  }
+
+  display: block;
+  height: $height;
+  position: relative;
+  width: round($height*.9); // logo ratio
+
+  &:after {
+    @include semicircle(right, golden_ratio($height, down)/2);
+    background: $cb_blue;
+    bottom: 0;
+    content: "";
+    position: absolute;
+    right: 0px;
+  }
+}

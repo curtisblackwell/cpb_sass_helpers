@@ -1,0 +1,1936 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"INSTALL_ABOVE_ROOT"
+			],
+			[
+				"ROOT",
+				"ROOT_PATH"
+			],
+			[
+				"AD",
+				"ADMIN_DIR"
+			],
+			[
+				"STATA",
+				"STATAMIC_UPDATE_DIR"
+			],
+			[
+				"stata",
+				"statamechanic"
+			],
+			[
+				"statam",
+				"statamechanic_settings"
+			],
+			[
+				"TUCHUS_",
+				"TUCHUS_UNZIP_DIR"
+			],
+			[
+				"themes",
+				"_themes"
+			],
+			[
+				"TUCH",
+				"TUCHUS_UNZIP_DIR"
+			],
+			[
+				"THEME",
+				"THEME_PATH"
+			],
+			[
+				"roo",
+				"ROOT_DIR"
+			],
+			[
+				"STAT",
+				"STATAMECHANIC_GITIGNORE"
+			],
+			[
+				"Date",
+				"DATE"
+			],
+			[
+				"date",
+				"DATE"
+			],
+			[
+				"TH",
+				"THEME"
+			],
+			[
+				"Firstnam",
+				"FIRST_NAME"
+			],
+			[
+				"THEM",
+				"THEME_PATH"
+			],
+			[
+				"THE",
+				"THEME_PATH"
+			],
+			[
+				"theme",
+				"THEME"
+			],
+			[
+				"Roo",
+				"ROOT_DIR"
+			],
+			[
+				"Sta",
+				"STATAMIC_DIR"
+			],
+			[
+				"ROOt",
+				"ROOT_DIR"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"syn",
+				"syntax_highlighter_content"
+			],
+			[
+				"neg",
+				"neg_space_mobile"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"projec",
+				"project_preview"
+			],
+			[
+				"colo",
+				"col_2_of_2"
+			],
+			[
+				"col",
+				"col_2_of_2"
+			],
+			[
+				"NSM",
+				"NSM_BASEPATH"
+			],
+			[
+				"gre",
+				"grey_light"
+			],
+			[
+				"ful",
+				"full_width"
+			],
+			[
+				"borde",
+				"button_border"
+			],
+			[
+				"pink",
+				"pink_loc_temp"
+			],
+			[
+				"pink_",
+				"pink_loc_temp"
+			],
+			[
+				"rule",
+				"rule_center_min"
+			],
+			[
+				"font",
+				"card_font_size"
+			],
+			[
+				"fon",
+				"card_font_size"
+			],
+			[
+				"card",
+				"card_height"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pre",
+				"preserve-3d"
+			],
+			[
+				"artic",
+				"ARTICLE	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cpb.scss",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_functions.scss",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_shapes.scss",
+			"settings":
+			{
+				"buffer_size": 1850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_vars.scss",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"selected_items":
+		[
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"newfile",
+				"File: New File Relative to Current View"
+			],
+			[
+				"file rena",
+				"File: Rename"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"dock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gotolin",
+				"Goto Line"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"gist from ",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"goto line",
+				"Goto Line"
+			],
+			[
+				"goto",
+				"Goto Beginning of Line"
+			],
+			[
+				"gist",
+				"GitHub: Open Gist in Browser"
+			],
+			[
+				"gist ",
+				"GitHub: Open Gist in Browser"
+			],
+			[
+				"gist brow",
+				"GitHub: Open Gist in Browser"
+			],
+			[
+				"git",
+				"GitHub: Update Gist"
+			],
+			[
+				"update",
+				"GitHub: Update Gist"
+			],
+			[
+				"private ",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"align",
+				"Align cursor"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"colori",
+				"Live CSS: Colorize"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"file navi",
+				"Open File Navigator"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"apache",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"syntax: bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"update gi",
+				"GitHub: Update Gist"
+			],
+			[
+				"github",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"github: upda",
+				"GitHub: Update Gist"
+			],
+			[
+				"them",
+				"Themr: Soda Dark"
+			],
+			[
+				"repl",
+				"SublimeREPL: Clojure-Telnet"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"expre",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"exp",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"express",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"expres",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"expression",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"tab",
+				"Insert a literal tab"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"gith",
+				"GitHub: Open Gist in Browser"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"bracket",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"brac",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"filediffs",
+				"FileDiffs: Menu"
+			],
+			[
+				"filedffs",
+				"FileDiffs: Menu"
+			],
+			[
+				"insert",
+				"Insert newline without indenting"
+			],
+			[
+				"got",
+				"Goto Beginning of Line"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package controL: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control:",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"toggle stat",
+				"View: Toggle Status Bar"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/curtisblackwell/Sites/cpb_sass_helpers/_mixins.scss",
+		"/Users/curtisblackwell/Sites/cpb_sass_helpers/_h5bp_helper_classes.scss",
+		"/Users/curtisblackwell/Sites/statamechanic_site/stage.yml",
+		"/Users/curtisblackwell/Sites/statamechanic_site/live.yml",
+		"/Users/curtisblackwell/Desktop/to-do/password protect dirs/htaccess",
+		"/Users/curtisblackwell/Sites/statamechanic_site/.htaccess",
+		"/Users/curtisblackwell/Sites/statamechanic_site/passwd",
+		"/Users/curtisblackwell/Sites/mysite-above/_config/fieldsets/blog_post.yaml",
+		"/Users/curtisblackwell/Sites/mysite-above/public_html/_themes/london-wild/templates/post.html",
+		"/Users/curtisblackwell/Sites/mysite-above/public_html/_themes/london-wild/layouts/default.html",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/scss/_site_helpers.scss",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/scss/_site_helper_classes.scss",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/london-wild/layouts/default.html",
+		"/Users/curtisblackwell/Sites/statamechanic_site/_config/settings.yaml",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/scss/_colors.scss",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/config.rb",
+		"/Users/curtisblackwell/Sites/catan_almanac/config.rb",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/scss/statamechanic-theme.scss",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/london-wild/templates/default.html",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/layouts/default.html",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/templates/default.html",
+		"/Users/curtisblackwell/Sites/statamechanic_site/public_html/_themes/statamechanic-theme/templates/page.html",
+		"/Users/curtisblackwell/Sites/statamechanic_site/Statamechanic Site.sublime-workspace",
+		"/Users/curtisblackwell/Sites/statamechanic_site/Statamechanic Site.sublime-project",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/install_statamic.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/set_defaults.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/yes_sir_right_away_sir.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/collect_info.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/cleanup.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/bashify.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/yamlize.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/test.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/update_statamic.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/update_statamic_tasks.sh",
+		"/Users/curtisblackwell/Sites/statamechanic/public_html/cp.php",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/create_statamechanic.yaml.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/create_symlinks_for_statamic_bug.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/global_vars.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/install_statamic_from_statamechanic.yaml.sh",
+		"/Users/curtisblackwell/Documents/Dropbox/Backups/Web Development/.bash_profile",
+		"/Users/curtisblackwell/.bash_history",
+		"/Users/curtisblackwell/Documents/Dropbox/Backups/Web Development/.gitconfig",
+		"/Users/curtisblackwell/Sites/mysite-above/test.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/uncomment_lines_for_above_root_installation.sh",
+		"/Users/curtisblackwell/Sites/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/mysite-root/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/mysite-above/public_html/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamechanic.yaml.sample",
+		"/Users/curtisblackwell/Sites/mysite-above/public_html/_add-ons/statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/mysite-root/_add-ons/statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/README.md",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_utilities/up_the_date.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/.gitignore",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/_add-ons/statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/mysite/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/mysite/.gitignore",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/.gitignore",
+		"/Users/curtisblackwell/Sites/statamiclab/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/_add-ons/astatamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamiclab/public_html/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/global_vars.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/logs/statamechanic.20121110123525.log",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/logs/statamechanic.20121110140633.log",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/logs/statamechanic.20121110124502.log",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/collect_info.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/bashify.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/yamlize.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/yes_sir_right_away_sir.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/create_statamechanic.yaml.sh",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/public_html/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/public_html/_add-ons/statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/logs/statamechanic.20121110120249.log",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/set_defaults.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamechanic.log",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/update_statamic.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/log_end",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/log_start.sh",
+		"/Users/curtisblackwell/Sites/statamic-1.3-personal/tee",
+		"/Users/curtisblackwell/Sites/i18n/languages/kr.yaml",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamic-setup.sh",
+		"/Users/curtisblackwell/Desktop/index.html",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamic_setup.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/gitignore_statamechanic.yaml.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamic_setup_from_statamechanic.yaml.sh",
+		"/Users/curtisblackwell/Sites/mysite/_config/settings.yaml",
+		"/Users/curtisblackwell/Sites/mysite/public_html/_add-ons/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/mysite/public_html/_add-ons/statamechanic_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamic_setup_from_existing_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/create_statamechanic_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/create_statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/mysite/public_html/_add-ons/create_statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/mysite/public_html/_add-ons/statamechanic_settings.temp.sh",
+		"/Users/curtisblackwell/Sites/mysite/public_html/_add-ons/statamechanic 2.yaml",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/gitignore_statamechanic_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/statamechanic.yaml",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/statamic_setup_from_existing_settings.sh",
+		"/Users/curtisblackwell/Music/Lyrics/Covers/talking bird.txt",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/utilities/statamic_setup.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/install_statamechanic.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/create-statamechanic_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/test2.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/create_statamechanic_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/collect_info.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/global_vars.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/collect-info.sh",
+		"/Users/curtisblackwell/Movies/_TV/Roseanne/Season 1/7 The Memory Game.mkv",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/_add-ons/statamechanic_settings.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/.gitignore",
+		"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/create-statamechanic-settings.sh",
+		"/Users/curtisblackwell/Sites/mysite/public_html/_themes/mytheme/templates/default.html",
+		"/Users/curtisblackwell/Documents/Dropbox/Backups/Apps/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/curtisblackwell/Documents/Dropbox/Backups/Apps/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/curtisblackwell/Documents/Dropbox/Backups/Apps/Sublime Text 2/Packages/ColorPicker/ColorPicker.sublime-commands",
+		"/Users/curtisblackwell/Documents/Dropbox/Backups/Apps/Sublime Text 2/Packages/ColorPicker/Default (OSX).sublime-keymap",
+		"/Users/curtisblackwell/Sites/statamic_addons/cpb_statamechanic/test2.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/cpb_statamechanic/test.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/cpb_statamechanic/statamic-setup.sh",
+		"/Users/curtisblackwell/Sites/statamic_addons/cpb_statamechanic/README.md",
+		"/Users/curtisblackwell/Sites/zies/.gitignore",
+		"/Users/curtisblackwell/Sites/statamic_addons/cpb_statamechanic/.gitignore",
+		"/Users/curtisblackwell/Sites/portfolio/Gruntfile.js",
+		"/Users/curtisblackwell/Sites/portfolio/app/index.html",
+		"/Users/curtisblackwell/Sites/statamictest/public_html/_themes/london-wild/layouts/default.html",
+		"/Users/curtisblackwell/Sites/portfolio/app/404.html",
+		"/Users/curtisblackwell/Sites/statamictest/public_html/_themes/index.html",
+		"/Users/curtisblackwell/Sites/statamictest/public_html/_themes/london-wild/index.html",
+		"/Users/curtisblackwell/Sites/statamictest/_config/fieldsets/blog_post.yaml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/curtisblackwell/Sites/statamic_addons/statamechanic"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cb_logo_stamp",
+			"cb_logo_stamp_height",
+			"height",
+			"$border-",
+			"100px",
+			",",
+			"),",
+			",",
+			"    ",
+			"summary",
+			"line",
+			"left: 0px;",
+			"left: -16px;",
+			"0px",
+			"10px",
+			"15px",
+			"10px",
+			"3px",
+			"10",
+			"down",
+			"theme",
+			"img",
+			"environment",
+			"vari",
+			"global",
+			"deb",
+			"theme",
+			"REMOVE_LIST",
+			"rm",
+			"cleanup",
+			"london",
+			"cleanup_list",
+			"london_wild",
+			"output",
+			"string",
+			"+=",
+			"exit",
+			"upgrade",
+			"statamic",
+			"sed",
+			"$utils",
+			"history",
+			".private",
+			"source",
+			"	",
+			"REMOVE_CONTENT",
+			"ROOT_DIR",
+			"REMOVE_CONTENT",
+			"ADMIN_THEMES",
+			"remove_",
+			"public_html",
+			"htaccess",
+			"rm -r",
+			"remove_list",
+			"mysite",
+			"PROJECT_DIR",
+			"STATAMIC_DIR",
+			"_admin",
+			"TUCHUS_UNZIP_DIR",
+			"sample.ht",
+			"project_dir",
+			"root_dir",
+			"kindling_dir",
+			"root_dir",
+			"INstall_above",
+			"REMOVE_LONDON_WILD",
+			"REMOVE_LIST=",
+			"remove_list",
+			"logs",
+			"utilities",
+			"kindi",
+			"kindling_dir",
+			"(B[m",
+			"[35m",
+			"date",
+			"rm",
+			"(B[m",
+			"[35m",
+			"sed",
+			"REMOVE_LIST",
+			"removing that which",
+			"_add-ons/statamechanic/utilities",
+			"(B[m",
+			"[35m",
+			"temp",
+			"statamic",
+			"london",
+			"if ",
+			"PWD",
+			"statamic_setup_from_existing_settings.sh",
+			"statamic_setup.sh",
+			"htaccess",
+			"statamic_setup.sh",
+			"# Licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/3.0/)",
+			"\n# Licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/3.0/)",
+			"check_php",
+			".private",
+			"VARIABLE",
+			"cat",
+			"=",
+			"ADMIN_DIR",
+			"statamic-setup.sh",
+			"settings.sh",
+			"THEME_PATH=",
+			"htaccess",
+			"$ADMIN_PHP",
+			"i'll set",
+			".private",
+			".bash_hi",
+			"sub .bash",
+			"this_file_was",
+			"gitignore",
+			"THEME",
+			"theme",
+			"THEME_PATH",
+			"theme",
+			"source",
+			"_ADD",
+			"STATAMECHANIC_GITIGNORE",
+			"CONCATENATE_HTACCESS",
+			"ACCEPT_ACCEPT_ALL_DEFAULTS",
+			"EXISTING_HTACCESS",
+			"htaccess",
+			"concat",
+			"ALL_DEFAULTS",
+			"ADMIN_DIR",
+			"GENDER_ID",
+			"PROJECT_NAME"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$border_",
+			",\n",
+			"  ",
+			"_logs",
+			"_utilities",
+			"",
+			"$utils",
+			"",
+			"install_statamic_from_statamechanic.yaml.sh",
+			"install_statamic.sh",
+			"",
+			"KEY",
+			"statamic_setup.sh",
+			"GITIGNORE_STATAMECHANIC",
+			"ACCEPT_ALL_DEFAULTS",
+			"OBJECT_PRONOUN",
+			"PROJECT_DIR",
+			"https://raw.github.com/statamic/Theme-Kindling/master/",
+			"",
+			"$question",
+			"",
+			"$question",
+			"$message",
+			"$red",
+			"$blue",
+			"$green\"[Y,n]\"$reset",
+			"$green\"[Y,n]\"",
+			"$purple",
+			"default:",
+			":\n",
+			" : ",
+			"  ",
+			"<",
+			"&lt;",
+			"&#123;",
+			"&lt;",
+			"mobile__neg_space",
+			"width_100",
+			"100",
+			"",
+			"  ",
+			"Curtis Blackwell",
+			"\n",
+			"",
+			"\n",
+			"",
+			"#000",
+			"#fff",
+			"transparent",
+			"$line_top",
+			"$lines_writing",
+			"$neg_space_card_top",
+			"$neg_space_top",
+			"#fff",
+			"$card_color",
+			"@include transition($transition_default);",
+			"@include transition($transition);",
+			"$card_font_size",
+			"$pink",
+			"white",
+			"grey_light",
+			"blue",
+			"$cbg",
+			"$c1",
+			"<section class=\"side_two\">",
+			"<section class=\"side_one\">",
+			"$white",
+			"$grey_dark"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cpb.scss",
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_functions.scss",
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_shapes.scss",
+					"settings":
+					{
+						"buffer_size": 1850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								758,
+								758
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_vars.scss",
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"statascss",
+				"public_html/_themes/statamechanic-theme/scss/statamechanic-theme.scss"
+			],
+			[
+				"default",
+				"public_html/_themes/london-wild/layouts/default.html"
+			],
+			[
+				"setting",
+				"_config/settings.yaml"
+			],
+			[
+				"coll",
+				"statamechanic/_utilities/collect_info.sh"
+			],
+			[
+				"clean",
+				"statamechanic/_utilities/cleanup.sh"
+			],
+			[
+				"yes",
+				"statamechanic/_utilities/yes_sir_right_away_sir.sh"
+			],
+			[
+				"set",
+				"statamechanic/_utilities/set_defaults.sh"
+			],
+			[
+				"install",
+				"statamechanic/install_statamic.sh"
+			],
+			[
+				"create",
+				"statamechanic/_utilities/create_symlinks_for_statamic_bug.sh"
+			],
+			[
+				"updatetask",
+				"statamechanic/_utilities/update_statamic_tasks.sh"
+			],
+			[
+				"update",
+				"statamechanic/update_statamic.sh"
+			],
+			[
+				"t",
+				"statamechanic/test.sh"
+			],
+			[
+				"bashif",
+				"statamechanic/_utilities/bashify.sh"
+			],
+			[
+				"gl",
+				"statamechanic/_utilities/global_vars.sh"
+			],
+			[
+				"installfrom",
+				"statamechanic/install_statamic_from_statamechanic.yaml.sh"
+			],
+			[
+				"installf",
+				"statamechanic/install_statamic_from_statamechanic.yaml.sh"
+			],
+			[
+				"test",
+				"statamechanic/test.sh"
+			],
+			[
+				"colle",
+				"statamechanic/_utilities/collect_info.sh"
+			],
+			[
+				"bashi",
+				"statamechanic/_utilities/bashify.sh"
+			],
+			[
+				"updatetas",
+				"statamechanic/_utilities/update_statamic_tasks.sh"
+			],
+			[
+				"insta",
+				"statamechanic/install_statamic.sh"
+			],
+			[
+				"s",
+				"statamechanic/statamechanic.yaml.sample"
+			],
+			[
+				"read",
+				"statamechanic/README.md"
+			],
+			[
+				".gi",
+				"statamechanic/.gitignore"
+			],
+			[
+				"creat",
+				"statamechanic/_utilities/create_statamechanic.yaml.sh"
+			],
+			[
+				"stat",
+				"statamechanic/statamechanic.yaml.sample"
+			],
+			[
+				"collec",
+				"statamechanic/_utilities/collect_info.sh"
+			],
+			[
+				"col",
+				"statamechanic/_utilities/collect_info.sh"
+			],
+			[
+				"bash",
+				"statamechanic/_utilities/bashify.sh"
+			],
+			[
+				"yamli",
+				"statamechanic/utilities/yamlize.sh"
+			],
+			[
+				"global",
+				"statamechanic/utilities/global_vars.sh"
+			],
+			[
+				"glob",
+				"statamechanic/utilities/global_vars.sh"
+			],
+			[
+				"instat",
+				"statamechanic/install_statamic.sh"
+			],
+			[
+				"colo",
+				"statamechanic/utilities/collect_info.sh"
+			],
+			[
+				"yam",
+				"statamechanic/utilities/yamlize.sh"
+			],
+			[
+				"sample",
+				"statamechanic/statamechanic.yaml.sample"
+			],
+			[
+				"defaults",
+				"statamechanic/utilities/set_defaults.sh"
+			],
+			[
+				"from",
+				"statamechanic/install_statamic_from_statamechanic.yaml.sh"
+			],
+			[
+				"stata",
+				"statamechanic/statamic-setup.sh"
+			],
+			[
+				"yaml",
+				"statamechanic/statamechanic.yaml.sample"
+			],
+			[
+				"statamic",
+				"statamechanic/statamic_setup_from_statamechanic.yaml.sh"
+			],
+			[
+				"setd",
+				"statamechanic/utilities/set_defaults.sh"
+			],
+			[
+				"test2",
+				"statamechanic/test2.sh"
+			],
+			[
+				"cre",
+				"statamechanic/create-statamechanic_settings.sh"
+			],
+			[
+				"re",
+				"statamechanic/README.md"
+			],
+			[
+				"st",
+				"statamechanic/statamic-setup.sh"
+			],
+			[
+				"",
+				"cpb_statamechanic/statamic-setup.sh"
+			],
+			[
+				"_core",
+				"app/styles/animation/_core.scss"
+			],
+			[
+				"environ",
+				"app/_config/environments/dev.yaml"
+			],
+			[
+				"settings",
+				"app/_config/settings.yaml"
+			],
+			[
+				"utilities",
+				"app/styles/compass_twitter_bootstrap/_responsive-utilities.scss"
+			],
+			[
+				"twitter_bootstrap",
+				"app/styles/_compass_twitter_bootstrap.scss"
+			],
+			[
+				"main.s",
+				"app/styles/main.scss"
+			],
+			[
+				".edi",
+				".editorconfig"
+			],
+			[
+				"index.html",
+				"app/index.html"
+			],
+			[
+				"main.scss",
+				"app/styles/main.scss"
+			],
+			[
+				"curtis",
+				"app/_config/users/curtisblackwell.yaml"
+			],
+			[
+				"hashbrownshea",
+				"public_html/templates/default_site/demos.group/.cpb-hash-browns-header.html"
+			],
+			[
+				"hashbrownsfooter",
+				"public_html/templates/default_site/demos.group/.cpb-hash-browns-footer.html"
+			],
+			[
+				"cpb",
+				"public_html/templates/default_site/demos.group/cpb-hash-browns.html"
+			],
+			[
+				"_fonts.sc",
+				"public_html/templates/default_site/styles.group/_fonts.scss"
+			],
+			[
+				"sn_foot",
+				"public_html/templates/default_site/snippets/sn_footer.html"
+			],
+			[
+				"cpb-hash",
+				"public_html/templates/default_site/demos.group/cpb-hash-browns.html"
+			],
+			[
+				"-3",
+				"public_html/templates/default_site/demos.group/cpb-hash-browns-3.html"
+			],
+			[
+				"-3.",
+				"public_html/templates/default_site/demos.group/cpb-hash-browns-3.html"
+			],
+			[
+				"hash-bro",
+				"public_html/templates/default_site/demos.group/cpb-hash-browns.html"
+			],
+			[
+				"template_code",
+				"_add-ons/template_code/pi.template_code.php"
+			],
+			[
+				"ce_im",
+				"_add-ons/ce_img/pi.ce_img.php"
+			],
+			[
+				"projects",
+				"public_html/templates/default_site/web-design.group/.projects.html"
+			],
+			[
+				"style.sc",
+				"public_html/templates/default_site/styles.group/style.scss"
+			],
+			[
+				"switchee",
+				"_add-ons/switchee/pi.switchee.php"
+			],
+			[
+				"htaccess",
+				"public_html/.htaccess"
+			],
+			[
+				"sn_fo",
+				"public_html/templates/default_site/snippets/sn_footer.html"
+			],
+			[
+				"sn",
+				"public_html/templates/default_site/snippets/sn_footer.html"
+			],
+			[
+				"pi.hash",
+				"_add-ons/hash_browns/pi.hash_browns.php"
+			],
+			[
+				"noindex",
+				"public_html/templates/default_site/snippets/sn_noindex.html"
+			],
+			[
+				"plugins",
+				"public_html/js/plugins.js"
+			],
+			[
+				"script",
+				"public_html/js/script.js"
+			],
+			[
+				".header",
+				"public_html/templates/default_site/site.group/.header.html"
+			],
+			[
+				"sn_title",
+				"public_html/templates/default_site/snippets/sn_title.html"
+			],
+			[
+				"sn_canon",
+				"public_html/templates/default_site/snippets/sn_canonical_uri.html"
+			],
+			[
+				"adaptive",
+				"public_html/adaptive-images.php"
+			],
+			[
+				"js/",
+				"public_html/js/script.js"
+			],
+			[
+				"fonts",
+				"public_html/templates/default_site/styles.group/_fonts.scss"
+			],
+			[
+				"style",
+				"public_html/templates/default_site/styles.group/style.scss"
+			],
+			[
+				"web-des",
+				"public_html/templates/default_site/web-design.group/index.html"
+			],
+			[
+				"web-design",
+				"public_html/templates/default_site/web-design.group/.projects.html"
+			],
+			[
+				"style.scss",
+				"public_html/templates/default_site/styles.group/style.scss"
+			],
+			[
+				"web-d",
+				"public_html/templates/default_site/mobile__web-design.group/index.html"
+			],
+			[
+				"canon",
+				"public_html/templates/default_site/snippets/sn_canonical_uri.html"
+			],
+			[
+				".prje",
+				"public_html/templates/default_site/web-design.group/.projects.html"
+			],
+			[
+				"sn_proj",
+				"public_html/templates/default_site/snippets/sn_projects.html"
+			],
+			[
+				"mobile",
+				"_add-ons/mobile/ext.mobile.php"
+			],
+			[
+				"canonica",
+				"public_html/templates/default_site/snippets/sn_canonical_uri.html"
+			],
+			[
+				"header.html",
+				"public_html/templates/default_site/site.group/.header.html"
+			],
+			[
+				"mobile__index.html",
+				"public_html/templates/default_site/mobile__web-design.group/index.html"
+			],
+			[
+				"h5",
+				"public_html/templates/default_site/styles.group/_h5bp.scss"
+			],
+			[
+				"h5bp",
+				"public_html/templates/default_site/styles.group/_h5bp.scss"
+			],
+			[
+				"ceimage",
+				"_add-ons/ce_img/libraries/Ce_image.php"
+			],
+			[
+				"ai",
+				"public_html/adaptive-images.php"
+			],
+			[
+				"404",
+				"public_html/templates/default_site/site.group/404.html"
+			],
+			[
+				"sn_footer",
+				"public_html/templates/default_site/snippets/sn_footer.html"
+			],
+			[
+				"robot",
+				"public_html/robots.txt"
+			],
+			[
+				".htaccess",
+				"public_html/.htaccess"
+			],
+			[
+				"config",
+				"config_bootstrap.php"
+			],
+			[
+				"404.html",
+				"public_html/templates/default_site/site.group/404.html"
+			],
+			[
+				"contact.group",
+				"public_html/templates/default_site/contact.group/index.html"
+			],
+			[
+				"sn_foo",
+				"public_html/templates/default_site/snippets/sn_footer.html"
+			],
+			[
+				"header",
+				"public_html/templates/default_site/site.group/.header.html"
+			],
+			[
+				"footer",
+				"public_html/templates/default_site/snippets/sn_footer.html"
+			],
+			[
+				"plug",
+				"public_html/js/plugins.js"
+			],
+			[
+				"scri",
+				"public_html/js/script.js"
+			],
+			[
+				"conf",
+				"config_bootstrap.php"
+			],
+			[
+				"video",
+				"public_html/js/libs/video-js/video-js.css"
+			],
+			[
+				"confi",
+				"config_bootstrap.php"
+			],
+			[
+				"sn_titel",
+				"public_html/templates/default_site/snippets/sn_title.html"
+			],
+			[
+				"h",
+				"public_html/templates/default_site/styles.group/_h5bp.scss"
+			],
+			[
+				"sn_header",
+				"public_html/templates/default_site/snippets/sn_header.html"
+			],
+			[
+				"head",
+				"public_html/templates/default_site/snippets/sn_header.html"
+			],
+			[
+				"default_site/web",
+				"public_html/templates/default_site/web-design.group/index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"flash",
+				"flash-cards.html"
+			],
+			[
+				"font",
+				"css/_fonts.scss"
+			],
+			[
+				"humas",
+				"humans.txt"
+			],
+			[
+				"humans",
+				"humans.txt"
+			],
+			[
+				"js",
+				"js/main.js"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				"plugins.js",
+				"public_html/js/plugins.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/curtisblackwell/Sites/statamic_addons/statamechanic/Statamechanic Site.sublime-project"
+			],
+			[
+				"por",
+				"/Users/curtisblackwell/Sites/portfolio/Portfolio.sublime-project"
+			],
+			[
+				"zah",
+				"/Users/curtisblackwell/Sites/zies/public_html/templates/default_site/site.group/Zahniser Institute.sublime-project"
+			],
+			[
+				"flash",
+				"/Users/curtisblackwell/Sites/flash_cards/Flash Cards.sublime-project"
+			]
+		],
+		"width": 545.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

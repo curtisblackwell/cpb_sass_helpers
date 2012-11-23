@@ -1,0 +1,11 @@
+@function golden_ratio($value, $direction) {
+  @if $direction == up {
+    $value: round($value * 1.618);
+  }
+
+  @if $direction == down {
+    $value: round($value / 1.618);
+  }
+
+  @return $value;
+}
