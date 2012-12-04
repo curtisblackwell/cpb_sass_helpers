@@ -2,7 +2,7 @@
         "_functions",
         "_vars";
 
-@mixin triangle($direction, $height, $width, $color) {
+@mixin triangle($direction, $width, $height, $color) {
   border-style: solid;
   @if $direction == up {
     border-color: transparent transparent $color transparent;
