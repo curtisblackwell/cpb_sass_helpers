@@ -31,27 +31,32 @@
   width: $diameter;
 }
 
-@mixin semicircle($direction, $diameter) {
-  @include circle($diameter);
-  position: absolute;
-
+@mixin semicircle($direction, $radius) {
   @if $direction == up {
-    clip: rect(0,$diameter,$diameter/2,0)
+    @include border-radius($radius*2 $radius*2 0 0);
+    height: $radius;
+    width: $radius*2;
   }
   @if $direction == down {
-    clip: rect($diameter/2,$diameter,$diameter,0)
+    @include border-radius(0 0 $radius*2 $radius*2);
+    height: $radius;
+    width: $radius*2;
   }
   @if $direction == left {
-    clip: rect(0,$diameter/2,$diameter,0)
+    @include border-radius($radius*2 0 0 $radius*2);
+    height: $radius*2;
+    width: $radius;
   }
   @if $direction == right {
-    clip: rect(0,$diameter,$diameter,$diameter/2)
+    @include border-radius(0 $radius*2 $radius*2 0);
+    height: $radius*2;
+    width: $radius;
   }
 }
 
 @mixin cb_logo_mark($height) {
   &:before {
-    @include semicircle(left, $height);
+    @include semicircle(left, $height/2);
     background: $cb_red;
     content: "";
     position: absolute;
@@ -63,7 +68,7 @@
   width: round($height*.9); // logo ratio
 
   &:after {
-    @include semicircle(right, golden_ratio($height, down));
+    @include semicircle(right, golden_ratio($height, down)/2);
     background: $cb_blue;
     bottom: 0;
     content: "";
@@ -71,4 +76,3 @@
     right: 0px;
   }
 }
-
