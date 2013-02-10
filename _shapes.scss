@@ -31,26 +31,21 @@
   width: $diameter;
 }
 
-@mixin semicircle($direction, $radius) {
+@mixin semicircle($direction, $diameter) {
+  @include circle($diameter);
+  position: absolute;
+
   @if $direction == up {
-    @include border-radius($radius*2 $radius*2 0 0);
-    height: $radius;
-    width: $radius*2;
+    clip: rect(0,$diameter,$diameter/2,0)
   }
   @if $direction == down {
-    @include border-radius(0 0 $radius*2 $radius*2);
-    height: $radius;
-    width: $radius*2;
+    clip: rect($diameter/2,$diameter,$diameter,0)
   }
   @if $direction == left {
-    @include border-radius($radius*2 0 0 $radius*2);
-    height: $radius*2;
-    width: $radius;
+    clip: rect(0,$diameter/2,$diameter,0)
   }
   @if $direction == right {
-    @include border-radius(0 $radius*2 $radius*2 0);
-    height: $radius*2;
-    width: $radius;
+    clip: rect(0,$diameter,$diameter,$diameter/2)
   }
 }
 
