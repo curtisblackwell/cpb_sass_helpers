@@ -51,7 +51,7 @@
 
 @mixin cb_logo_mark($height) {
   &:before {
-    @include semicircle(left, $height/2);
+    @include semicircle(left, $height);
     background: $cb_red;
     content: "";
     position: absolute;
@@ -63,7 +63,7 @@
   width: round($height*.9); // logo ratio
 
   &:after {
-    @include semicircle(right, golden_ratio($height, down)/2);
+    @include semicircle(right, golden_ratio($height, down));
     background: $cb_blue;
     bottom: 0;
     content: "";
@@ -71,3 +71,4 @@
     right: 0px;
   }
 }
+
