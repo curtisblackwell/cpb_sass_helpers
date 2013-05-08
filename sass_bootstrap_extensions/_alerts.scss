@@ -9,9 +9,9 @@
 .alert_badge {
   @include alert_badge();
 
-  display: block;
   background-color: $grayLighter;
   color: $textColor;
+  display: block;
   margin-top: $baseLineHeight / 2;
   padding-left: $baseLineHeight * 2;
   padding-right: $baseLineHeight * 2;
