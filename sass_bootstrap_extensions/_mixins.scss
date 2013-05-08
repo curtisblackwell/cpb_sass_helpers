@@ -1,0 +1,35 @@
+@mixin alert_badge($content: '!', $context: null) {
+  &:before {
+    @extend .badge;
+    @if $context != null {
+      @extend .badge-#{$context};
+    }
+    @if $context == info {
+      font-family: $serifFontFamily;
+      font-style: italic;
+    }
+
+    content: $content;
+    margin-left: -$baseLineHeight * 1.5;
+    margin-top: -$baseLineHeight/2;
+    position: absolute;
+    top: 50%;
+  }
+}
+
+@mixin alert_label($context: null) {
+  &:before {
+    @extend .label;
+    @if $context != null {
+      @extend .label-#{$context};
+    }
+    @if $context == info {
+      font-family: $serifFontFamily;
+      font-style: italic;
+    }
+
+    content: attr(data-label);
+    position: absolute;
+    top: 8px; // Taken from sass-bootstrap's .alert { padding }
+  }
+}
