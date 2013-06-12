@@ -1,0 +1,28 @@
+/**
+ * Gutterless Grid
+ *
+ * Example Usage
+ * -------------
+ * <div class="gutterless">
+ *   <div class="row-fluid">
+ *     <div class="span3"></div>
+ *     <div class="span9"></div>
+ *   </div>
+ * </div>
+ */
+.gutterless {
+  // Taken from _grid.scss
+  // @include grid-fluid($fluidGridColumnWidth, $fluidGridGutterWidth);
+     @include grid-fluid(8.333333333%,          0); // 100%/12 columns
+
+  // Reset utility classes due to specificity
+  [class*="span"].hide,
+  .row-fluid [class*="span"].hide {
+    display: none;
+  }
+
+  [class*="span"].pull-right,
+  .row-fluid [class*="span"].pull-right {
+    float: right;
+  }
+}
