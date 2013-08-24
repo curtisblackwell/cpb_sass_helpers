@@ -1,5 +1,5 @@
 .alert {
-  code { color: $textColor; }
+  code { color: $text-color; }
 }
 
 //////////////////
@@ -9,35 +9,35 @@
 .alert_badge {
   @include alert_badge();
 
-  background-color: $grayLighter;
-  color: $textColor;
+  background-color: $gray-lighter;
+  color: $text-color;
   display: block;
-  margin-top: $baseLineHeight / 2;
-  padding-left: $baseLineHeight * 2;
-  padding-right: $baseLineHeight * 2;
+  margin-top: $line-height-base / 2;
+  padding-left: $line-height-base * 2;
+  padding-right: $line-height-base * 2;
   position: relative;
 }
 
 .alert-success.alert_badge {
   @include alert_badge('!', success);
-  background-color: $successBackground;
-  color: $successText;
+  background-color: $alert-success-bg;
+  color: $alert-success-text;
 }
 .alert-warning.alert_badge {
   @include alert_badge('!', warning);
-  background-color: $warningBackground;
-  color: $warningText;
+  background-color: $alert-warning-bg;
+  color: $alert-warning-text;
 }
 .alert-error.alert_badge,
 .alert-danger.alert_badge {
   @include alert_badge('!', important);
-  background-color: $errorBackground;
-  color: $errorText;
+  background-color: $alert-danger-bg;
+  color: $alert-danger-text;
 }
 .alert-info.alert_badge {
   @include alert_badge('i', info);
-  background-color: $infoBackground;
-  color: $infoText;
+  background-color: $alert-info-bg;
+  color: $alert-info-text;
 }
 .alert-inverse.alert_badge {
   @include alert_badge('!', inverse);
@@ -51,34 +51,34 @@
 .alert_label {
   @include alert_label();
 
-  background-color: $grayLighter;
-  color: $textColor;
+  background-color: $gray-lighter;
+  color: $text-color;
   display: block;
-  margin-top: $baseLineHeight / 2;
-  padding-top: $baseLineHeight * 1.5;
+  margin-top: $line-height-base / 2;
+  padding-top: $line-height-base * 1.5;
   position: relative;
 }
 
 .alert-success.alert_label {
   @include alert_label(success);
-  background-color: $successBackground;
-  color: $successText;
+  background-color: $alert-success-bg;
+  color: $alert-success-text;
 }
 .alert-warning.alert_label {
   @include alert_label(warning);
-  background-color: $warningBackground;
-  color: $warningText;
+  background-color: $alert-warning-bg;
+  color: $alert-warning-text;
 }
 .alert-error.alert_label,
 .alert-danger.alert_label {
   @include alert_label(important);
-  background-color: $errorBackground;
-  color: $errorText;
+  background-color: $alert-danger-bg;
+  color: $alert-danger-text;
 }
 .alert-info.alert_label {
   @include alert_label(info);
-  background-color: $infoBackground;
-  color: $infoText;
+  background-color: $alert-info-bg;
+  color: $alert-info-text;
 }
 .alert-inverse.alert_label {
   @include alert_label(inverse);

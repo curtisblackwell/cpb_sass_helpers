@@ -5,13 +5,13 @@
       @extend .badge-#{$context};
     }
     @if $context == info {
-      font-family: $serifFontFamily;
+      font-family: $font-family-serif;
       font-style: italic;
     }
 
     content: $content;
-    margin-left: -$baseLineHeight * 1.5;
-    margin-top: -$baseLineHeight/2;
+    margin-left: -$line-height-base * 1.5;
+    margin-top: -$line-height-base/2;
     position: absolute;
     top: 50%;
   }
@@ -24,7 +24,7 @@
       @extend .label-#{$context};
     }
     @if $context == info {
-      font-family: $serifFontFamily;
+      font-family: $font-family-serif;
       font-style: italic;
     }
 
