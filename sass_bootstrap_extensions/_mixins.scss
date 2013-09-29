@@ -1,17 +1,29 @@
 @mixin alert_badge($content: '!', $context: null) {
   &:before {
     @extend .badge;
-    @if $context != null {
-      @extend .badge-#{$context};
+
+    @if $context == warning {
+      background-color: lighten($alert-warning-text, 20%);
+      color: $body-bg;
+    }
+    @if $context == danger {
+      color: $alert-danger-text;
+    }
+    @if $context == success {
+      color: $alert-success-text;
     }
     @if $context == info {
+      color: $alert-info-text;
       font-family: $font-family-serif;
       font-style: italic;
     }
+    @if $context != warning {
+      background-color: $body-bg;
+    }
 
     content: $content;
-    margin-left: -$line-height-base * 1.5;
-    margin-top: -$line-height-base/2;
+    margin-left: -$alert-padding * 1.5;
+    margin-top: -$alert-padding / 2 - 3; // 3px = badge vertical padding
     position: absolute;
     top: 50%;
   }
