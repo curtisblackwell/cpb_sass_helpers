@@ -9,38 +9,26 @@
 .alert_badge {
   @include alert_badge();
 
-  background-color: $gray-lighter;
-  color: $text-color;
-  display: block;
   margin-top: $line-height-base / 2;
-  padding-left: $line-height-base * 2;
-  padding-right: $line-height-base * 2;
+  padding-left: $alert-padding * 2;
   position: relative;
 }
 
 .alert-success.alert_badge {
   @include alert_badge('!', success);
-  background-color: $alert-success-bg;
   color: $alert-success-text;
 }
 .alert-warning.alert_badge {
   @include alert_badge('!', warning);
-  background-color: $alert-warning-bg;
   color: $alert-warning-text;
 }
-.alert-error.alert_badge,
 .alert-danger.alert_badge {
-  @include alert_badge('!', important);
-  background-color: $alert-danger-bg;
+  @include alert_badge('!', danger);
   color: $alert-danger-text;
 }
 .alert-info.alert_badge {
   @include alert_badge('i', info);
-  background-color: $alert-info-bg;
   color: $alert-info-text;
-}
-.alert-inverse.alert_badge {
-  @include alert_badge('!', inverse);
 }
 
 
@@ -69,9 +57,8 @@
   background-color: $alert-warning-bg;
   color: $alert-warning-text;
 }
-.alert-error.alert_label,
 .alert-danger.alert_label {
-  @include alert_label(important);
+  @include alert_label(danger);
   background-color: $alert-danger-bg;
   color: $alert-danger-text;
 }
@@ -79,7 +66,4 @@
   @include alert_label(info);
   background-color: $alert-info-bg;
   color: $alert-info-text;
-}
-.alert-inverse.alert_label {
-  @include alert_label(inverse);
 }
