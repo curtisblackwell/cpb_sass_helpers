@@ -45,3 +45,10 @@
     top: 8px; // Taken from sass-bootstrap's .alert { padding }
   }
 }
+
+@mixin cb-responsive-visibility($parent, $display) {
+  #{$parent} { display: $display !important; }
+  tr#{$parent} { display: table-row !important; }
+  th#{$parent},
+  td#{$parent} { display: table-cell !important; }
+}
